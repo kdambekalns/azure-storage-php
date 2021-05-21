@@ -12,6 +12,10 @@
     ],
     "require": {
         "php": ">=5.6.0",
+        "ext-fileinfo": "*",
+        "ext-mbstring": "*",
+        "ext-openssl": "*",
+        "ext-xsl": "*",
         "microsoft/azure-storage-common": "~1.5"
     },
     "autoload": {
